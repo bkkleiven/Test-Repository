@@ -1,2 +1,4 @@
-Test Git
+
+Test Git for conflicts
 Torstein: endring
+
